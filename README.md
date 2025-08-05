@@ -2,11 +2,6 @@
 
 A web application designed to manage student information efficiently.
 
-## Deployed Application
-
-You can access the live application here:
-[https://student-management-system-s7rz.vercel.app/](https://student-management-system-s7rz.vercel.app/)
-
 ## Features
 
 *   **User Authentication:** Secure Sign Up and Login functionality for users.
@@ -62,7 +57,7 @@ To run this project locally, you would typically need the source code. The gener
 
 ## Usage
 
-1.  Navigate to the deployed link: [https://student-management-system-s7rz.vercel.app/](https://student-management-system-s7rz.vercel.app/)
-2.  If you are a new user, click on "Sign Up" and create an account.
-3.  If you already have an account, enter your Email and Password to "Login".
-4.  Once logged in, you should be able to access the dashboard and manage student records (Add, View, Edit, Delete).
+1.  Navigate to the Project
+3.  If you are a new user, click on "Sign Up" and create an account.
+4.  If you already have an account, enter your Email and Password to "Login".
+5.  Once logged in, you should be able to access the dashboard and manage student records (Add, View, Edit, Delete).
